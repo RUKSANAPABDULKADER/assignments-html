@@ -52,6 +52,12 @@ Read the below pages and attend the tests.
 
 - [Id](https://www.w3schools.com/html/html_id.asp)
 
+- [Layout](https://www.w3schools.com/html/html_layout.asp)
+
+- [File paths](https://www.w3schools.com/html/html_filepaths.asp)
+
+- [Head](https://www.w3schools.com/html/html_head.asp)
+
 ## Linux Commands
 
 - `cd` - Change current directory.Ex:`cd Desktop`, `cd..`

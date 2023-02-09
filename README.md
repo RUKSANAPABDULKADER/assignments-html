@@ -58,6 +58,10 @@ Read the below pages and attend the tests.
 
 - [Head](https://www.w3schools.com/html/html_head.asp)
 
+- [Quotations](https://www.w3schools.com/html/html_quotation_elements.asp)
+
+- [comments](https://www.w3schools.com/html/html_comments.asp)
+
 ## Linux Commands
 
 - `cd` - Change current directory.Ex:`cd Desktop`, `cd..`

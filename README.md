@@ -62,6 +62,8 @@ Read the below pages and attend the tests.
 
 - [comments](https://www.w3schools.com/html/html_comments.asp)
 
+- [Responsive](https://www.w3schools.com/html/html_responsive.asp)
+
 ## Linux Commands
 
 - `cd` - Change current directory.Ex:`cd Desktop`, `cd..`

@@ -74,6 +74,8 @@ Read the below pages and attend the tests.
 
 - `cat` -Display contents of a file.Ex:'cat README.md'
 
+- `mkdir` -make new folder.Ex:`mkdir betasquirrel-task`
+
 ## Git Commands
 
 - `git` config confiqure g user.Ex`git config --global user.name "RUKSANAPABDULKADER",git config user.email"ruksanapabdulkader@gmail.com"`

@@ -26,31 +26,31 @@ Read the below pages and attend the tests.
 
 - [HTML](https://www.w3schoools.com/html/default.asp)
 
-- [Attributes](https://www.w3schools.com/html/html-attributes.asp)
+- [Attributes](https://www.w3schoools.com/html/html_attributes)
 
-- [Style](https://www.w3schools.com/html-style.asp)
+- [Style](https://www.w3schoools.com/html_style.asp)
 
-- [heddings](https://www.w3school.com/html-heddings.asp)
+- [heddings](https://www.w3schoool.com/html_heddings.asp)
 
-- [Paragraphs](https://www.w3school.com/html-paragraphs.asp)
+- [Paragraphs](https://www.w3schoool.com/html-paragraphs.asp)
 
-- [Heddings](https://www.w3school.com/html-heddings.asp)
+- [Heddings](https://www.w3schoool.com/html-heddings.asp)
 
-- [Formatting](https://www.w3school.com/html-formatting.asp)
+- [Formatting](https://www.w3schoool.com/html-formatting.asp)
 
-- [color](https://www.w3school.com/html-color.asp)
+- [color](https://www.w3schoool.com/html-color.asp)
 
-- [css](https://www.w3school.com/html-css.asp)
+- [css](https://www.w3schooool.com/html-css.asp)
 
-- [links](https://www.w3school.com/html-links.asp)
+- [links](https://www.w3schoool.com/html-links.asp)
 
-- [Images](https://www.w3school.com/html-images.asp)
+- [Images](https://www.w3schoool.com/html-images.asp)
 
-- [Block&inline](https://www.w3school.com/html-Block&inline.asp)
+- [Block&inline](https://www.w3schoool.com/html-Block&inline.asp)
 
-- [classes](https://www.w3school.com/html-classes.asp)
+- [classes](https://www.w3schoool.com/html-classes.asp)
 
-- [Id](https://www.w3school.com/html-Id.asp)
+- [Id](https://www.w3schoool.com/html-Id.asp)
 
 ## Linux Commands
 

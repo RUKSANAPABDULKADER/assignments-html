@@ -4,12 +4,11 @@ Assignments from betasquirrel
 
 ## Outputs
 
-| Outputs                             |
-| ----------------------------------- |
-| ![task-1](output/task-1-output.png) |
-| ![task-2](output/task-2-output.png) |
-| ![task-4](output/task-4-output.png) |
-
+|Requirments                                 |  output                                |
+|--------------------------------------------|----------------------------------------|
+|![task-1](requirments/task-1-requirment.png)|![task-1](output/task-1-output.png)     |
+|![task-2](requirments/tas-2-requirment.png) |![task-2](output/task-2-output.png)     |
+|![task-4](requirments/task-4-requirment.png)|![task-4](output/task-4-output.png)
 # _Importent notes_
 
 # HTML Introduction

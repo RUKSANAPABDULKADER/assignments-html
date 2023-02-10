@@ -4,14 +4,14 @@ Assignments from betasquirrel
 
 ## Outputs
 
-|Requirments                                 |  output                                |
+|Requirments                                  |Output
 |--------------------------------------------|----------------------------------------|
-|![task-1](requirments/task-1-requirment.png)|![task-1](output/task-1-output.png)     |
-|![task-2](requirments/tas-2-requirment.png) |![task-2](output/task-2-output.png)     |
-|![task-4](requirments/task-4-requirment.png)|![task-4](output/task-4-output.png)
+|![task-1](images/requirments/task-1-requirment.png)|![task-1](images/output/task-1-output.png)     |
+|![task-2](images/requirments/tas-2-requirment.png) |![task-2](images/output/task-2-output.png)     |
+|![task-4](images/requirments/task-4-requirment.png)|![task-4](images/output/task-4-output.png)
 # _Importent notes_
 
-# HTML Introduction
+# HTML Introduction    
 
 HTML stands for Hyper Text Markup Language.
 HTML is the standard markup language for creating Web pages.

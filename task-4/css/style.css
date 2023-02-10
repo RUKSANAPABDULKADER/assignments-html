@@ -2,7 +2,6 @@ body {
   background-color: #ececec;
   margin: 0 auto;
 }
-
 #navbar {
   background-color: #625c5c;
   height: 80px;
@@ -11,7 +10,6 @@ body {
   justify-content: space-between;
   border-bottom: 1px solid #ececec;
 }
-
 #logo-container {
   width: 300px;
   float: left;
@@ -19,7 +17,6 @@ body {
   justify-content: flex-start;
   padding: 15px;
 }
-
 #logo-container img {
   height: 60px;
   margin-right: 15px;
@@ -29,67 +26,56 @@ body {
   display: inline-block;
   color: white;
 }
-
 #profile-container {
   width: auto;
   float: right;
 }
-
 #profile-container > img {
   height: 60px;
   border-radius: 50%;
 }
-
 .main {
   height: calc(100vh - 81px);
+  position: relative;
 }
-
 #sidebar {
   background-color: #625c5c;
   height: 100%;
   width: 150px;
   float: left;
 }
-
 #container > h2 {
   color: #555;
   margin: 0 0 15px 0;
   text-decoration: underline;
 }
-
 #container {
   padding: 15px;
   float: left;
 }
-
 .green-bg {
   background-color: #06ce83;
 }
-
 .purple-bg {
   background-color: #a25aff;
 }
-
 .red-bg {
   background-color: #f24e1d;
 }
-
 .cyan-bg {
   background-color: #1cbcfd;
 }
-
 #tile-container,
 #circle-container {
   display: flex;
+  position: absolute;
 }
-
 #tile-container {
   margin-bottom: 15px;
 }
-
 .tile {
   height: 130px;
-  width: 231px;
+  width: 230px;
   float: left;
   margin-right: 19px;
   padding: 25px;
@@ -98,12 +84,10 @@ body {
   justify-content: center;
   align-items: center;
 }
-
 .tile h2,
 .tile h3 {
   color: white;
 }
-
 .circle,
 .chart {
   display: flex;
@@ -115,19 +99,17 @@ body {
   width: 170px;
   padding: 50px;
   margin-right: 25px;
-  border-radius: 70%;
+  margin-top: 20%;
+  border-radius: 50%;
 }
-
 #tile-container > div,
 #circle-container > div {
   margin-right: 15px;
 }
-
 #tile-container > div:last-child,
 #circle-container > div:last-child {
   margin-right: 0;
 }
-
 .inner-one {
   width: 80%;
   height: 80%;
@@ -136,12 +118,10 @@ body {
   justify-content: center;
   align-items: center;
 }
-
 .inner-one h2,
 .inner-four h2 {
   color: #fff;
 }
-
 .inner-two {
   width: 110%;
   height: 160%;
@@ -151,11 +131,9 @@ body {
   align-items: center;
   background-color: #fff;
 }
-
 .inner-two h2 {
-  clor: #555;
+  color: #555;
 }
-
 .inner-three {
   width: 100%;
   height: 120%;
@@ -165,7 +143,6 @@ body {
   background-color: #ff7262;
   padding: 5px;
 }
-
 .inner-four {
   width: 60%;
   height: 60%;
@@ -175,75 +152,61 @@ body {
   padding: 6px;
   margin-top: 25px;
 }
-
 .bar {
   width: 15px;
   position: absolute;
   overflow: hidden;
 }
-
 .chart {
   position: relative;
   display: block;
 }
-
 .chart div {
   bottom: 0;
 }
-
 .one {
   left: 50px;
   height: calc(100% - 30px);
 }
-
 .two {
   left: 80px;
   height: calc(100% - 10px);
 }
-
 .three {
   left: 150px;
   height: calc(100% - 70px);
 }
-
 .four {
   left: 240px;
   height: calc(100% - 100px);
 }
-
 .five {
   left: 190px;
   height: calc(100% - 10px);
 }
-
 .six {
   left: 110px;
   height: calc(100% - 50px);
 }
-
 .line {
   width: 200%;
   height: 5px;
   background-color: #625b5b;
   position: absolute;
 }
-
 #sidebar nav {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   padding: 15px 30px 30px 30px;
 }
-
 #sidebar nav a {
   color: white;
   padding: 5px;
 }
-
 #sidebar nav a:first-child {
   padding-top: 0;
 }
-
 #sidebar nav a.active {
   color: #0ece83;
   text-decoration: none;

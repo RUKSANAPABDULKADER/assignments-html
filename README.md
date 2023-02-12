@@ -90,3 +90,10 @@ Read the below pages and attend the tests.
 ## _This is my website live link_
 
  https://ruksanapabdulkader.github.io/betasquirrel-tasks/
+
+## _This is my linkedin  prifile URL:_
+
+www.linkedin.com/in/ruksana-p-abdulkader-04507b209
+
+## _My Stack overflow profile URL:_
+https://stackoverflow.com/users/21194413/ruksana-p-abdulkader

@@ -48,8 +48,7 @@ body {
   height: 200px;
   padding: 1px;
   float: left;
-  margin-left: 0px;
-  
+  margin-left: 0px 
 }
 .m-r {
   margin-right: 10px;

@@ -40,17 +40,18 @@ body {
   margin-top: 15px;
   margin-bottom: 15px;
   padding: 15px;
-  margin-right: 0px;
   margin-left: 0px;
 }
 .boxes {
-  background-color: #d1d8e8;
-  width: calc((100% /3) - 9px);
+  background-color: hsl(222, 33%, 86%);
+  width: calc((100% / 3) - 10px);
   height: 200px;
   padding: 1px;
   float: left;
-  margin-bottom: 10px;
+  margin-left: 0px;
+  
 }
-.m-l {
+.m-r {
   margin-right: 10px;
 }
+

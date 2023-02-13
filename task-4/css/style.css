@@ -28,10 +28,12 @@ body {
 #profile-container {
   width: auto;
   float: right;
+  padding: 10px;
 }
 #profile-container > img {
-  height: 60px;
+  height: 70px;
   border-radius: 50%;
+  margin-right: 15px;
 }
 .main {
   height: calc(100vh - 81px);
@@ -51,6 +53,7 @@ body {
 #container {
   padding: 15px;
   float: left;
+
 }
 .green-bg {
   background-color: #06ce83;
@@ -71,17 +74,17 @@ body {
 }
 #tile-container {
   margin-bottom: 15px;
+  display: flex;
 }
 .tile {
-  height: 130px;
-  width: 230px;
+  height: 100px;
+  width: calc(100vh / 4);
   float: left;
-  margin-right: 19px;
-  padding: 25px;
+  padding: 60px;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
+  flex-direction: column ;
 }
 .tile h2,
 .tile h3 {
@@ -90,15 +93,14 @@ body {
 .circle,
 .chart {
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 170px;
+  height: 150px;
   float: left;
-  width: 170px;
+  width: 150px;
   padding: 50px;
   margin-right: 25px;
-  margin-top: 20%;
+  margin-top: 25%;
   border-radius: 50%;
 }
 #tile-container > div,
@@ -123,7 +125,7 @@ body {
 }
 .inner-two {
   width: 110%;
-  height: 160%;
+  height: 110%;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -135,7 +137,7 @@ body {
 }
 .inner-three {
   width: 100%;
-  height: 120%;
+  height: 100%;
   border-radius: 50%;
   display: flex;
   justify-content: center;
@@ -159,6 +161,7 @@ body {
 .chart {
   position: relative;
   display: block;
+  margin-bottom: 5%;
 }
 .chart div {
   bottom: 0;
@@ -188,7 +191,7 @@ body {
   height: calc(100% - 50px);
 }
 .line {
-  width: 100%;
+  width: 135%;
   height: 5px;
   background-color: #625b5b;
   position: absolute;

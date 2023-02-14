@@ -45,7 +45,7 @@ body {
 .boxes {
   background-color: hsl(222, 33%, 86%);
   width: calc((100% / 3) - 10px);
-  height: 200px;
+  height: 300px;
   padding: 1px;
   float: left;
   margin-left: 0px 

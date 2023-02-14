@@ -6,13 +6,13 @@ body {
   background-color: #625c5c;
   height: 80px;
   display: flex;
+  justify-content: space-between;
   align-items: center;
   justify-content: space-between;
   border-bottom: 1px solid #ececec;
-  overflow: hidden;
 }
 #logo-container {
-  width: 300px;
+  width: 200px;
   float: left;
   display: flex;
   justify-content: flex-start;
@@ -29,17 +29,13 @@ body {
 #profile-container {
   width: auto;
   float: right;
- padding-left: 15px;
- justify-self: start;
 }
 #profile-container > img {
-  height: 70px;
+  height: 60px;
   border-radius: 50%;
-  padding-right: 80%;
 }
 .main {
   height: calc(100vh - 81px);
-  position: relative;
 }
 #sidebar {
   background-color: #625c5c;
@@ -53,8 +49,9 @@ body {
   text-decoration: underline;
 }
 #container {
-  padding: 30px;
+  padding: 15px;
   float: left;
+  width:calc(100vw - 200px)
 }
 .green-bg {
   background-color: #06ce83;
@@ -71,17 +68,16 @@ body {
 #tile-container,
 #circle-container {
   display: flex;
-  position: absolute;
 }
 #tile-container {
   margin-bottom: 15px;
-  display: flex;
 }
-.tile {
-  height: 100px;
-  width: calc(100vh / 4);
+.tile{
+  height: 200px;
+  width: calc((100% )/ 4);
+}
+.tile, .circle, .chart {
   float: left;
-  padding: 60px;
   display: flex;
   justify-content: center;
   justify-content: space-between;
@@ -94,107 +90,105 @@ body {
 }
 .circle,
 .chart {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
-  float: left;
-  width: 200px;
-  padding: 50px;
-  margin-right: 25px;
-  margin-top: 20%;
+  height:calc((100vw - 200px) /4);
+  width: calc((100% )/ 4);
+}
+.circle {
   border-radius: 50%;
 }
 #tile-container > div,
 #circle-container > div {
-  margin-right: 0px;
+  margin-right: 20px;
 }
 #tile-container > div:last-child,
 #circle-container > div:last-child {
   margin-right: 0;
 }
 .inner-one {
-  width: 80%;
-  height: 80%;
+  width: 70%;
+  height: 70%;
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
+  margin-top: 60px;
 }
 .inner-one h2,
 .inner-four h2 {
   color: #fff;
 }
 .inner-two {
-  width: 110%;
-  height: 110%;
+  width: 80%;
+  height: 80%;
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: #fff;
+  margin-top: 38px;
 }
-.inner-two h2 {
+.inner-one h2 {
   color: #555;
 }
 .inner-three {
-  width: 100%;
-  height: 100%;
+  width: 90%;
+  height: 90%;
   border-radius: 50%;
   display: flex;
   justify-content: center;
+  align-items: center;
   background-color: #ff7261;
-  padding: 5px;
+  margin-top: 18px;
 }
 .inner-four {
-  width: 60%;
-  height: 60%;
+  width: 70%;
+  height: 70%;
   display: flex;
   justify-content: center;
+  align-items: center;
   border-radius: 50%;
   padding: 6px;
-  margin-top: 25px;
 }
 .bar {
   width: 15px;
   position: absolute;
-  overflow: hidden;
 }
 .chart {
   position: relative;
   display: block;
-  margin-bottom: 5%;
 }
 .chart div {
   bottom: 0;
 }
 .one {
-  left: 50px;
+  left: 0;
   height: calc(100% - 30px);
 }
 .two {
-  left: 80px;
-  height: calc(100% - 10px);
+  left: 40px;
+  height: calc(100% - 150px);
 }
 .three {
-  left: 150px;
-  height: calc(100% - 70px);
+  left: 90px;
+  height: calc(100% - 120px);
 }
 .four {
-  left: 240px;
-  height: calc(100% - 100px);
+  left: 135px;
+  height: calc(100% - 200px);
 }
 .five {
-  left: 190px;
-  height: calc(100% - 10px);
+  left: 180px;
+  height: calc(100% - 40px);
+  background-color: #5e5c5d;
 }
 .six {
-  left: 110px;
-  height: calc(100% - 50px);
+  left: 225px;
+  height: calc(100% - 280px);
+  background-color: #ff7261;
 }
 .line {
-  width: 210px;
-  height: 5px;
+  width: 100%;
+  height: 15px;
   background-color: #625b5b;
   position: absolute;
 }

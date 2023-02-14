@@ -8,7 +8,6 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  justify-content: space-between;
   border-bottom: 1px solid #ececec;
 }
 #logo-container {
@@ -20,7 +19,7 @@ body {
 }
 #logo-container img {
   height: 60px;
-  margin-right: 15px;
+  margin-right: 20px;
 }
 #logo-container h2 {
   display: inline-block;
@@ -74,13 +73,12 @@ body {
 }
 .tile{
   height: 200px;
-  width: calc((100% )/ 4);
+  width: calc((100% ) / 4);
 }
 .tile, .circle, .chart {
   float: left;
   display: flex;
   justify-content: center;
-  justify-content: space-between;
   align-items: center;
   flex-direction: column ;
 }
@@ -111,7 +109,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 60px;
+  overflow: hidden;
 }
 .inner-one h2,
 .inner-four h2 {
@@ -125,7 +123,6 @@ body {
   justify-content: center;
   align-items: center;
   background-color: #fff;
-  margin-top: 38px;
 }
 .inner-one h2 {
   color: #555;
@@ -135,10 +132,10 @@ body {
   height: 90%;
   border-radius: 50%;
   display: flex;
-  justify-content: center;
+ justify-content: center; 
   align-items: center;
   background-color: #ff7261;
-  margin-top: 18px;
+  overflow: hidden;
 }
 .inner-four {
   width: 70%;

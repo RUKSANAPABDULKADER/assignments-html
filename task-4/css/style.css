@@ -9,6 +9,7 @@ body {
   align-items: center;
   justify-content: space-between;
   border-bottom: 1px solid #ececec;
+  overflow: hidden;
 }
 #logo-container {
   width: 300px;
@@ -28,12 +29,13 @@ body {
 #profile-container {
   width: auto;
   float: right;
-  padding: 10px;
+ padding-left: 15px;
+ justify-self: start;
 }
 #profile-container > img {
   height: 70px;
   border-radius: 50%;
-  margin-right: 15px;
+  padding-right: 80%;
 }
 .main {
   height: calc(100vh - 81px);
@@ -51,9 +53,8 @@ body {
   text-decoration: underline;
 }
 #container {
-  padding: 15px;
+  padding: 30px;
   float: left;
-
 }
 .green-bg {
   background-color: #06ce83;
@@ -83,6 +84,7 @@ body {
   padding: 60px;
   display: flex;
   justify-content: center;
+  justify-content: space-between;
   align-items: center;
   flex-direction: column ;
 }
@@ -95,17 +97,17 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 150px;
+  height: 200px;
   float: left;
-  width: 150px;
+  width: 200px;
   padding: 50px;
   margin-right: 25px;
-  margin-top: 25%;
+  margin-top: 20%;
   border-radius: 50%;
 }
 #tile-container > div,
 #circle-container > div {
-  margin-right: 15px;
+  margin-right: 0px;
 }
 #tile-container > div:last-child,
 #circle-container > div:last-child {
@@ -191,7 +193,7 @@ body {
   height: calc(100% - 50px);
 }
 .line {
-  width: 135%;
+  width: 210px;
   height: 5px;
   background-color: #625b5b;
   position: absolute;

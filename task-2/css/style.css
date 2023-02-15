@@ -80,9 +80,13 @@ body {
   }
   .one {
     height: auto;
+    width:auto;
+    margin-bottom: 5px;
   }
   .two {
     height: auto;
+    width:auto;
+    margin-bottom: 5px;
   }
   #second-container {
     width: 100vw;

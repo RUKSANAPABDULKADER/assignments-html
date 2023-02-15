@@ -45,12 +45,12 @@ body {
 }
 .boxes {
   background-color: hsl(222, 33%, 86%); 
-  height: 300px;
-  width: calc((100% /3) - 32.5px);
+  height: 190px;
+  width: calc((100% /3) - 32px);
   float: left;
   padding: 10px;
-  margin-bottom: 15px;
-  margin-left: 0px; 
+  margin-bottom: 10px;
+  margin-left: 0 auto; 
   margin-right: 0 auto;
 }
 .m-r {

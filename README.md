@@ -87,6 +87,12 @@ Read the below pages and attend the tests.
 
 - `git push` push your local commits to remote repo Ex:`git push origin main`
 
+- `git stash` This command can be used when we want to save our work without staging or committing the code to our Git repository and want to switch between branches.
+
+- `git pull` The git pull command first runs ‘git fetch’ which downloads the content from the specified remote repository and then immediately updates the local repo to match the content.
+
+- `git diff` Diffing is a function that takes two input datasets and outputs the changes between them. The git diff command is a multi-use Git command which, when executed, runs a diff function on Git data sources. These data sources can be commits, branches, files, and more. The git diff command is often used along with the git status and git log commands to analyze the current state of our Git repository. We use `git log` to get the details of commit IDs
+
 ## _This is my website live link_
 
  https://ruksanapabdulkader.github.io/betasquirrel-tasks/

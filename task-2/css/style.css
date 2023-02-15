@@ -36,11 +36,13 @@ body {
 }
 #main-container {
   background-color: #d2d9e9;
-  height: 250px;
+  height: 300px;
   margin: 15px;
-  padding: 15px;
+  padding: 10px;
   display: flex;
+  margin-left: 10px;
   justify-content: space-between;
+  align-items: center;
 }
 .box {
   background-color: #86df7c;
@@ -57,7 +59,7 @@ body {
 }
 #secondary-container {
   background-color: #b94141;
-  height: 200px;
+  height: 100px;
   margin: 0 15px 15px 15px;
   padding: 15px;
 }
@@ -66,4 +68,27 @@ body {
   border: 2px solid #2ca122;
   height: 100%;
   justify-content: center;
+}
+@media only screen and (max-width: 600px){
+  a{
+    display: none;
+  }
+  #navbar{
+    width:100% ;
+  }
+  #main-container{ 
+    height: auto;
+    padding: 10px;
+    flex-direction:column;
+  }
+   .one {
+    height: auto; 
+  }
+  .two{
+   height: auto;    
+  } 
+  #second-container {
+    width:100vw ; 
+    padding: 10px;
+  }
 }

@@ -7,7 +7,7 @@ body {
   height: 80px;
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-between; 
 }
 #logo-container {
   width: 300px;
@@ -41,16 +41,31 @@ body {
   margin-bottom: 15px;
   padding: 15px;
   margin-left: 0px;
+  margin-right: 0px;
 }
 .boxes {
   background-color: hsl(222, 33%, 86%);
   width: calc((100% / 3) - 10px);
-  height: 300px;
-  padding: 1px;
+  height: 200px;
+  padding: 10px;
   float: left;
   margin-left: 0px 
 }
 .m-r {
   margin-right: 10px;
+}
+@media only screen and (max-width: 600px){
+  #navbar{
+    width:600px ;
+    padding: 10px;
+  }
+  #main-container{
+    width:600px ; 
+    padding: 10px;
+  }
+    .boxes {
+    width:600px ; 
+    padding: 10px;
+  }
 }
 

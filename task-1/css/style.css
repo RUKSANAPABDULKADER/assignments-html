@@ -56,17 +56,20 @@ body {
 .m-r {
   margin-right: 15px;
 }
-@media only screen and (max-width: 600px){
+@media only screen and (max-width: 750px){
+  a{
+    display: none;
+  }
   #navbar{
-    width:600px ;
+    width:100% ;
     padding: 10px;
   }
   #main-container{
-    width:600px ; 
+    width:100% ; 
     padding: 10px;
   }
     .boxes {
-    width:600px ; 
+    width:100% ; 
     padding: 10px;
   }
 }

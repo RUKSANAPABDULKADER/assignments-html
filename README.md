@@ -85,7 +85,7 @@ Read the below pages and attend the tests.
 
 - [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
 
--[Form Attributtes](https://www.w3schools.com/html/html_forms_attributes.asp)
+- [Form Attributtes](https://www.w3schools.com/html/html_forms_attributes.asp)
 
 - [Form Elements](https://www.w3schools.com/html/html_form_elements.asp)
 

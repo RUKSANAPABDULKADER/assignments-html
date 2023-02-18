@@ -63,6 +63,26 @@ Read the below pages and attend the tests.
 
 - [Responsive](https://www.w3schools.com/html/html_responsive.asp)
 
+- [Tables](https://www.w3schools.com/html/html_tables.asp)
+
+- [tables Borders](https://www.w3schools.com/html/html_table_borders.asp)
+
+- [Table Sizes](https://www.w3schools.com/html/html_table_sizes.asp)
+
+- [Table Headers](https://www.w3schools.com/html/html_table_headers.asp)
+
+- [Padding&Spacing](https://www.w3schools.com/html/html_table_padding_spacing.asp)
+
+- [Colspan&Rowspan](https://www.w3schools.com/html/html_table_colspan_rowspan.asp)
+
+- [Table Styling](https://www.w3schools.com/html/html_table_styling.asp)
+
+- [Table Colgroup](https://www.w3schools.com/html/html_table_colgroup.asp)
+
+- [HTML Forms](https://www.w3schools.com/html/html_forms.asp)
+
+
+
 ## Linux Commands
 
 - `cd` - Change current directory.Ex:`cd Desktop`, `cd..`

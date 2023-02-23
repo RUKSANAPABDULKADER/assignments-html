@@ -1,0 +1,155 @@
+body {
+  background-color: white;
+  margin: 0px;
+}
+#navbar {
+  background-color: white;
+  height: 80px;
+  border-bottom: 2px solid black;
+  position: relative;
+}
+#logo-container {
+  width: 200px;
+  float: left;
+  display: flex;
+  justify-content: flex-start;
+  padding: 15px;
+}
+#logo-container img {
+  height: 60px;
+  margin-right: 20px;
+}
+#profile-container {
+  width: auto;
+  float: right;
+}
+#profile-container > img {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+  margin-right: 20px;
+  margin-top: 10px;
+  align-items: center;
+  justify-content: center;
+}
+.main {
+  height: calc(100vh - 80px);
+}
+#sidebar {
+  height: calc(100vh - 80px);
+  width: 180px;
+  border: 1px solid black;
+  border-bottom: none;
+  padding-top: 10px;
+  position: fixed;
+  float: left;
+}
+#sidebar nav {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 15px 30px 30px 30px;
+}
+#sidebar nav a {
+  color: black;
+  padding: 5px;
+  text-decoration: none;
+}
+#sidebar nav a:first-child {
+  padding-top: 0;
+}
+#container {
+  padding: 10px;
+  margin-left: 15px;
+  float: left;
+  height: 80%;
+  width: calc(100vw - 200px);
+  position: relative;
+}
+.student-details{
+  margin-top: 10px;
+  margin-left: 10px;
+  float: left;
+  display: flex;
+  flex-wrap: wrap;
+  flex-basis:100% ;
+  font-weight: 500;
+  justify-content: space-between;
+  position: absolute;
+}
+.student-box{
+  width: calc(90% / 2);
+  height: 25px;
+}
+.button-box{
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin-right: 25%;
+  margin-top:12%;
+  cursor: pointer;
+}
+.button{
+  width: 120px;
+  height: 40px;
+  border-radius: 30%;
+}
+.primary{
+  background-color:#ff7261;
+}
+ .secondary{
+  background-color: #3bb989;
+  margin-left: 10px;
+ }
+ #req{
+  color: red;
+ }
+  /* @media only screen and (min-width: 600px){
+ #navbar{
+  height: auto;
+   width:100%;
+   padding: 10px;
+ }
+ #sidebar{
+  height: auto;
+   width:100%;
+   padding: 10px;
+ }
+ #container{
+  height: auto;
+   width:100%;
+   padding: 10px;
+ }
+ .student-details{
+  height: auto;
+  width:100%;
+  padding: 10px;
+ }
+ .student-box{
+  height: auto;
+  width:100%;
+  padding: 10px;
+ }
+ .button-box{
+  height: auto;
+  width:100%;
+  padding: 10px;
+ }
+ .button{
+  height: auto;
+  width:100%;
+  padding: 10px;
+ }
+ .primary{
+  height: auto;
+  width:100%;
+  padding: 10px;
+ }
+ .secondary{
+  height: auto;
+  width:100%;
+  padding: 10px;
+ }
+ }   */

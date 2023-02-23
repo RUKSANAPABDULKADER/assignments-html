@@ -149,7 +149,7 @@ label{
   color: red;
   font-size: larger;
 }
-/* @media only screen and (max-width: 750px) {
+@media only screen and (max-width: 750px) {
 #navbar{
  width: 100%
 }
@@ -158,7 +158,48 @@ label{
   padding: 10px;
   flex-direction: column;
 }
-} */
+#container{
+  height: auto;
+  padding: 10px;
+  flex-direction: column;
+}
+.reg{
+  height: auto;
+  padding: 10px;
+  flex-direction: column;
+}
+.student-details{
+  height: auto;
+  padding: 10px;
+  flex-direction: column;
+}
+student-contact{
+  height: auto;
+  padding: 10px;
+  flex-direction: column;
+}
+.student-branch{
+  height: auto;
+  padding: 10px;
+  flex-direction: column;
+}
+.subject{
+  height: auto;
+  padding: 10px;
+}
+.address{
+  height: auto;
+  padding: 10px;
+  flex-direction: column;
+}
+.button{
+  height: auto;
+  padding: 10px;
+  flex-direction: column;
+}
+}
+
+
 
 
 

@@ -80,18 +80,37 @@ button[type=button]{
   background-color:#3bb989 ;
   border: none;
 }
-  table, th, td {
-    border: 1px solid black;
-    border-collapse:collapse;
+  .table th, .table td {
+   border: 1px solid black;
     padding: 10px;
+    text-align:center ;
 }
-@media screen and (max-width:750px){
+table{
+  border: 1px solid black;
+  border-collapse:collapse;
+}
+@media screen and (max-width:600px){
   #navbar {
-    width:25%
+    display:none;
   }
-  #main{
-    width:calc(100% - 25%)
+  .main{
+    height: auto;
+    padding: 10px;
+    flex-direction: column;
+  }
+  #sidebar{
+   display:none ;
+  }
+  .container{
+    width:100%;
+  }
+  .table th, .table td{
+    display: block;
+    width: 100%;
+  }
+  .table{
+    display: block;
+    width: 100%;
+    overflow: hidden;
   }
 }
-
-

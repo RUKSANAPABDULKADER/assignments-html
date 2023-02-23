@@ -89,7 +89,6 @@ h2{
   justify-content: space-between;
   margin-right: 20px;
   padding: 10px;
-  
 }
 .student-branch{
   display: flex;
@@ -131,7 +130,7 @@ button[type=clear]{
   cursor: pointer;
 }
  input[type=text]{
-width: 110%;
+width: 100%;
 padding: 10px;
 border: 1px solid black;
 }
@@ -139,7 +138,6 @@ input[type=checkbox]{
   margin-left: 15px;
   color: black;
 }
-
 span{
   font-family:20px ;
   font-size: large;
@@ -151,55 +149,69 @@ label{
 }
 @media only screen and (max-width: 750px) {
 #navbar{
- width: 100%
+ display: none;
 }
 .main{
   height: auto;
   padding: 10px;
   flex-direction: column;
 }
+#sidebar{
+  display:none;
+}
 #container{
   height: auto;
+  width:100% ;
   padding: 10px;
   flex-direction: column;
+  overflow: hidden;
 }
 .reg{
   height: auto;
+  width:100% ;
   padding: 10px;
   flex-direction: column;
 }
 .student-details{
   height: auto;
+  width:100% ;
   padding: 10px;
   flex-direction: column;
+  display: block;
 }
 student-contact{
   height: auto;
+  width: 100%;
   padding: 10px;
+  display: block;
   flex-direction: column;
 }
 .student-branch{
   height: auto;
+  width:100% ;
   padding: 10px;
   flex-direction: column;
 }
 .subject{
   height: auto;
+  width:100% ;
   padding: 10px;
+  flex-direction: column;
 }
 .address{
   height: auto;
+  width:100% ;
   padding: 10px;
   flex-direction: column;
 }
 .button{
   height: auto;
+  width:100% ;
   padding: 10px;
   flex-direction: column;
+  margin-left: 5px;
 }
 }
-
-
 
 
 

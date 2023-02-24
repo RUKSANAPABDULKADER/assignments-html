@@ -73,19 +73,23 @@ body {
 h2{
   text-decoration: underline;
 }
-button[type=button]{
+ .container > a{
   height: 40px;
   width: 100px;
   margin-top: 10px;
   background-color:#3bb989 ;
   border: none;
+  text-decoration: none;
+  color: black;
+ align-items: center;
 }
   .table th, .table td {
    border: 1px solid black;
     padding: 10px;
     text-align:center ;
-}
+  }
 table{
+  margin-top:auto ;
   border: 1px solid black;
   border-collapse:collapse;
 }

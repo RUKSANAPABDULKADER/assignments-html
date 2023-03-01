@@ -1,0 +1,22 @@
+body{
+    background-color: aqua;
+    margin: 0 auto;
+}
+#container{
+    height: 300px;
+    width:300px;
+    background-color: chartreuse;
+    align-self: center;
+    margin-left: 40%;
+    margin-top: 10%;
+}
+.box{
+    background-color: brown;
+    height: 100px;
+    width: 100px;
+    float: left;
+    align-items: center;
+    margin-top: 20%;
+    margin-left: 10%;
+    display: flex;
+}

@@ -69,6 +69,7 @@ body {
  display: flex;
  margin-left: 20px;
  justify-content: space-between;
+ align-items: center;
 }
 h2{
   text-decoration: underline;
@@ -108,13 +109,13 @@ table{
   .container{
     width:100%;
   }
-  .table th, .table td{
+  /* .table th, .table td{
     display: block;
     width: 100%;
-  }
-  .table{
+  } */
+  /* .table{
     display: block;
     width: 100%;
     overflow: hidden;
-  }
+  } */
 }

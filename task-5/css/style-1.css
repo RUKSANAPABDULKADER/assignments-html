@@ -148,6 +148,11 @@ label{
   color: red;
   font-size: larger;
 }
+select[name]{
+  width: 122%;
+  padding: 10px;
+border: 1px solid black;
+}
 .flex > img{
   height: 30px;
   width: 30px;
@@ -198,7 +203,7 @@ student-contact{
 }
 .student-branch{
   height: auto;
-  width:100% ;
+  width:40% ;
   padding: 10px;
   flex-direction: column;
 }

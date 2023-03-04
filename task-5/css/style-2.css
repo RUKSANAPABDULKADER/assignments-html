@@ -41,7 +41,7 @@ body {
 #sidebar {
   background-color: white;
   height: 100%;
-  width: 180px;
+  width: 160px;
   float: left;
   border: 2px solid black;
   border-bottom: none;
@@ -118,12 +118,10 @@ table{
   .container{
     width:100%;
   }
-  /* .table th, .table td{
-    display: block;
+   .table th, .table td{
     width: 100%;
-  } */
-  /* .table{
-    display: block;
+  }
+  .table{
     width: 100%;
     overflow: hidden;
   } */

@@ -62,10 +62,9 @@ body {
 }
 .container{
   height: 100px;
- width: 70%;
+ width: 76%;
  float: left;
  display: inline;
- margin-top: 10px;
  display: flex;
  margin-left: 30px;
  justify-content: space-between;
@@ -81,8 +80,19 @@ h2{
   background-color:#3bb989 ;
   border: none;
   text-decoration: none;
-  color: black;
  align-items: center;
+}
+.icon{
+  height:auto ;
+  width:calc(100% - 200px);
+  float: left;
+  margin-left: 25px;
+}
+.table-container{
+  height:calc(100% - 900px);
+  width:calc(100% - 200px);
+  float: left;
+  margin-top: 10px;
 }
   .table th, .table td {
    border: 1px solid black;
@@ -103,6 +113,14 @@ table{
   margin-left: 10px;
   align-items: center;
 }
+nav i{
+  margin-right: 10px;
+  vertical-align: middle;
+  height: 25px;
+  line-height: 28px !important;
+  color: #3bb989;
+}
+
 @media screen and (max-width:600px){
   #navbar {
     display:none;
@@ -118,11 +136,11 @@ table{
   .container{
     width:100%;
   }
-   .table th, .table td{
+   /* .table th, .table td{
     width: 100%;
   }
   .table{
     width: 100%;
     overflow: hidden;
-  } */
+  }  */
 }

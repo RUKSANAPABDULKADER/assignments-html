@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+}
+.container{
+    background-color: rgb(234, 234, 235);
+    border: 1px solid black;
+    height: 500px;
+    width: 400px;
+}
+p{
+   text-align: center;
+   font-size: x-large;
+}
+i{
+    padding: 10px;
+    color: blue;
+}
+.row{
+    padding: 10px; 
+    margin-left: 10px;   
+}
+button[type]{
+    width: 60px;
+    height: 50px;
+    margin-left: 15px;
+}
+#calculator{
+    text-align: right;
+}

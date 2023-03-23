@@ -135,3 +135,81 @@ www.linkedin.com/in/ruksana-p-abdulkader-04507b209
 
 ## _My Stack overflow profile URL:_
 https://stackoverflow.com/users/21194413/ruksana-p-abdulkader
+
+# Java script
+
+- [JS introduction](https://www.w3schools.com/js/js_intro.asp)
+
+- [Where to](https://www.w3schools.com/js/js_whereto.asp)
+
+- [Output](https://www.w3schools.com/js/js_output.asp)
+
+- [JS Statements](https://www.w3schools.com/js/js_statements.asp)
+
+- [JS Syntax](https://www.w3schools.com/js/js_syntax.asp)
+
+- [JS Comments](https://www.w3schools.com/js/js_comments.asp)
+
+- [JS variable](https://www.w3schools.com/js/js_variables.asp)
+
+- [JS let](https://www.w3schools.com/js/js_let.asp)
+
+- [JS const](https://www.w3schools.com/js/js_const.asp)
+
+- [JS operator](https://www.w3schools.com/js/js_operators.asp)
+
+- [JS arithemetic](https://www.w3schools.com/js/js_arithmetic.asp)
+
+- [JS Assignment](https://www.w3schools.com/js/js_assignment.asp)
+
+- [JS data types](https://www.w3schools.com/js/js_datatypes.asp)
+
+- [JS function](https://www.w3schools.com/js/js_functions.asp)
+
+- [JS Objects](https://www.w3schools.com/js/js_objects.asp)
+
+- [JS events](https://www.w3schools.com/js/js_events.asp)
+
+- [JS strings](https://www.w3schools.com/js/js_strings.asp)
+
+- [JS String-methods](https://www.w3schools.com/js/js_string_methods.asp)
+
+- [JS string-search](https://www.w3schools.com/js/js_string_search.asp)
+
+- [JS String-templates](https://www.w3schools.com/js/js_string_templates.asp)
+
+- [JS numbers](https://www.w3schools.com/js/js_numbers.asp)
+
+- [JS bigint](https://www.w3schools.com/js/js_bigint.asp)
+
+- [JS number-metods](https://www.w3schools.com/js/js_number_methods.asp)
+
+- [JS number-properties](https://www.w3schools.com/js/js_number_properties.asp)
+
+- [JS arrays](https://www.w3schools.com/js/js_arrays.asp)
+
+- [JS array methods](https://www.w3schools.com/js/js_array_methods.asp)
+
+- [JS array sort](https://www.w3schools.com/js/js_array_sort.asp)
+
+- [JS array-iteration](https://www.w3schools.com/js/js_array_iteration.asp)
+
+- [JS array-const](https://www.w3schools.com/js/js_array_const.asp)
+
+# JS Function
+
+- [Function definition](https://www.w3schools.com/js/js_function_definition.asp)
+
+- [Function parameters](https://www.w3schools.com/js/js_function_parameters.asp)
+
+- [Function invocation](https://www.w3schools.com/js/js_function_invocation.asp)
+
+- [Function call](https://www.w3schools.com/js/js_function_call.asp)
+
+- [Function apply](https://www.w3schools.com/js/js_function_apply.asp)
+
+- [Function bind](https://www.w3schools.com/js/js_function_bind.asp)
+
+- [Function closures](https://www.w3schools.com/js/js_function_closures.asp)
+
+
